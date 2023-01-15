@@ -1,0 +1,15 @@
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.deps.json
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.runtimeconfig.json
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.dll
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.pdb
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.csproj.AssemblyReference.cache
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.AssemblyInfoInputs.cache
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.AssemblyInfo.cs
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.csproj.CoreCompileInputs.cache
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.dll
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/refint/FunctionalProgramming.dll
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.pdb
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.genruntimeconfig.cache
+/home/kodnashion/RiderProjects/FunctionalProgrammingAp/FunctionalProgramming/obj/Debug/net7.0/ref/FunctionalProgramming.dll
